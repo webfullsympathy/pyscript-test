@@ -1,1 +1,1 @@
-# <a href="https://pyscript.dev">PyScript</a>のテストです。
+# <a href="https://pyscript.net">PyScript</a>のテストです。
